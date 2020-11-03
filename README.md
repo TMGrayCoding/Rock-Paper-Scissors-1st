@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors-1st
-image classifier for rock paper scissors
+# Simple-Machine-Learning
+learning machine learning with project
